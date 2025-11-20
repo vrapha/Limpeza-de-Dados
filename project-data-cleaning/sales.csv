@@ -1,0 +1,13 @@
+date,order_id,product,category,price,quantity
+2024-01-01,1001,Mouse USB,Periféricos,79.9,1
+2024-01-01,1002,Teclado Mecânico,Periféricos,250.0,1
+2024-01-02,1003,Monitor 24,Monitores,0,1
+2024-01-03,1004,Headset Gamer,Áudio,320.5,2
+2024-01-05,1005,Mouse USB,Periféricos,,1
+2024-01-05,1005,Mouse USB,Periféricos,,1
+2024-01-10,1006,Webcam HD,Periféricos,199.9,
+2024-01-15,1007,Cadeira Gamer,Móveis,1299.9,1
+2024-01-20,1008,Monitor 27,Monitores,1450.0,1
+2024-02-01,1009,Mouse USB,Periféricos,79.9,3
+2024-02-03,1010,Headset Gamer,Áudio,320.5,1
+2024-02-10,1011,Teclado de Membrana,Periféricos,120.0,2
